@@ -4,4 +4,4 @@ Este é apenas um exercício de um topo com menu lateral, botões animados e íc
 
 [Este tutorial foi retirado do canal: ONLINE TUTORIALS](https://www.youtube.com/watch?v=5zkOWf5_lAo&feature=em-uploademail)  
   
-![Imagem da tela]()
+![Imagem da tela](https://github.com/alexandrebatista2014/Landing-Topo-com-menu-lateral/blob/master/img-tela.gif)
